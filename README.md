@@ -10,3 +10,6 @@
 >   No complicated setup is required, and it only takes a few minutes to spin up your worker nodes.
 >
 >
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>OPAI.Space Dashboard</p></figcaption></figure>
+
