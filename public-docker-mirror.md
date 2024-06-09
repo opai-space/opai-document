@@ -1,8 +1,8 @@
 ---
-description: OPAI.Space Hub Mirror
+description: OPAI.Space Docker Mirror
 ---
 
-# 🐳 Public Hub Mirror
+# 🐳 Public Docker Mirror
 
 ## Overview
 
