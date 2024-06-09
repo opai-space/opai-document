@@ -6,7 +6,7 @@ description: OPAI.Space Docker Mirror
 
 ## Overview
 
-Due to the current limiting of Docker Hub, many workers encountered code:125 problem. Therefore, we set up a public and free Hub mirror service, to help workers quickly grab the latest image.
+Due to the current limiting of Docker Hub, many workers encountered code:125 problem. Therefore, we set up a public and free Hub mirror service, to help workers quickly pull the latest image.
 
 This is a non-profit service that provides Docker Hub acceleration services for OPAI users. **Please do not abuse in other ways.**
 
