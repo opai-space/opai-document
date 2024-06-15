@@ -34,3 +34,5 @@ fi
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 We encourage you to share your scripts in the community to help more users better maintain their devices.
+
+> For security reasons, we only allow device owners to set up this feature.
