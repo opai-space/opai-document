@@ -15,7 +15,7 @@
 
 > There are limits on the total number of devices connected to your account and the total number of rentals.
 >
-> * Device Quota : 5 (Default maximum number of connected devices)
+> * Device Quota : 10 (Default maximum number of connected devices)
 > * Rental Quota : 1 (Default maximum number of devices that can be rented)
 >
 > If you would like to increase your quota, please contact the community staff and we will increase your quota accordingly.
