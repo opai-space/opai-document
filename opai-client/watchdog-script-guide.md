@@ -2,7 +2,13 @@
 
 The Watchdog script will automatically run every minute after logging in. We recommend that you update to the latest version of the client to support more features.
 
+{% hint style="warning" %}
 For security reasons, we only allow device owners to set up this feature.
+{% endhint %}
+
+{% hint style="info" %}
+Please run your OPAI client with "--watchdog" to enable this feature.
+{% endhint %}
 
 {% hint style="info" %}
 Note: You need to restart the OPAI client if re-set the script to make it effect.
