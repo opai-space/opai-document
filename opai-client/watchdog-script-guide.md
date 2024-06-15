@@ -7,6 +7,7 @@ For security reasons, we only allow device owners to set up this feature.
 {% endhint %}
 
 {% hint style="info" %}
+Please upgrade your OPAI Client to 0.5.3 or newest. \
 Please run your OPAI client with "--watchdog" to enable this feature.
 {% endhint %}
 
