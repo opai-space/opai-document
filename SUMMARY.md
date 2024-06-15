@@ -8,3 +8,4 @@
 ## OPAI Client
 
 * [🖥️ Run OPAI Client on your devices](opai-client/run-opai-client-on-your-devices.md)
+* [🐶 Watchdog Script Guide](opai-client/watchdog-script-guide.md)
