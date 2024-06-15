@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🖐️ OPAI.Space Overview](README.md)
+* [❓ FAQ](faq.md)
 * [🆕 Whats News?](whats-news.md)
 * [🐳 Public Docker Mirror](public-docker-mirror.md)
 
