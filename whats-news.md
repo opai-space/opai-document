@@ -3,7 +3,7 @@
 #### \[OPAI.Space Update Version:0.5.3 Update 16/06/2024]
 
 * \[Added] The website dark theme.
-* \[Added] Watchdog Script supported. \[[For more information click here](opai-client/watchdog-script-guide.md)]
+* \[Added] Watchdog Script supported. \[[For more information click here](https://opai-space.gitbook.io/opai.space/opai-client/watchdog-script-guide)]
 
 #### \[OPAI.Space Update Version:0.5.2 Update 12/06/2024]
 
