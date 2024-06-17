@@ -8,3 +8,4 @@ When any of the following conditions are met, Launch Binary will be automaticall
 * Launch container execution exceeds 10 minutes
 * Monitor or VC container execution time exceeds 20 minutes, and worker container status is "down" or "unsupported"
 
+If you need a more complex operation and maintenance strategy, we recommend using the watchdog script.

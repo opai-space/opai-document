@@ -1,5 +1,10 @@
 # 🆕 Whats News?
 
+#### \[OPAI.Space Update Version:0.5.4 Update 17/06/2024]
+
+* \[Update] The automatic restart policy has been updated.  \[[For more information click here](https://opai-space.gitbook.io/opai.space/opai-client/io-service-auto-restart-strategy)]
+* \[Added] Added GitHub mirror service.
+
 #### \[OPAI.Space Update Version:0.5.3 Update 16/06/2024]
 
 * \[Added] The website dark theme.
