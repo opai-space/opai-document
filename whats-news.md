@@ -2,10 +2,10 @@
 
 #### \[OPAI.Space Update Version:0.5.5 Update 20/06/2024]
 
-* \[Fixed] Fixed an issue where ionet launcher may restart repeatedly on some devices.
+* \[Fixed] Fixed the issue where ionet launcher may restart repeatedly on some devices.
 * \[Fixed] Fixed the issue where some abnormal errors may cause OPAI Client to be closed.This version will try to restart OPAI Client to re-run.
 * \[Updated] This version will synchronize the status of "io-service-ray-gpu" containerd to the web console.
-*
+* Fixed the issue that IONET client download did not handle timeout and might cause blocking.
 
 #### \[OPAI.Space Update Version:0.5.4 Update 17/06/2024]
 
