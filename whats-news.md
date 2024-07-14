@@ -1,5 +1,12 @@
 # 🆕 Whats News?
 
+#### \[OPAI.Space Website Update 15/07/2024]
+
+* \[New] Added the blocks status display of IO.NET. 
+* \[New] The VIP membership system has been added. You can subscribe to VIP service to get more device quota and special features, be invited VIP members to join the club group to provide more services.
+* \[New] Added the ability to query your worker status via the Telegram bot (https://t.me/OPAISpaceBot). Please add your Telegram account name in the account settings page to enable this feature. This feature is in the alpha testing and only VIP members are allowed to use it, more Telegram bot features will be updated later.
+* \[New] Account password can be modified now.
+
 #### \[OPAI.Space Update Version:0.5.5 Update 20/06/2024]
 
 * \[Fixed] Fixed the issue where ionet launcher may restart repeatedly on some devices.
